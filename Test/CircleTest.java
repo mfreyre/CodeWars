@@ -16,8 +16,5 @@ public class CircleTest {
         }
     }
 
-    @Test
-    public void shouldReturnCorrectAreaWhenInputed68() {
 
-    }
 }
